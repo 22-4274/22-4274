@@ -3,17 +3,17 @@ Wheelers Cottage, Lake End Road
 Windsor, United Kingdom   
 07405435856 
 hashim.hassan.w@gmail.com  
-Linked In 
+
  
 Professional Summary  
 I am a dynamic specialist with experience designing, implementing, and managing 
 cloud solutions that drive business transformation through innovation and 
 operational efficiency. With a strong foundation in computing and cloud 
 architecture, I leverage advanced technologies to maximize organizational value, 
-tackling complex challenges in fast-paced environments. 
+Tackling complex challenges in fast-paced environments. 
 Key Strengths: 
 • Proactive problem-solving: I approach each challenge proactively, driving 
-innovative solutions that meet strategic objectives. 
+Innovative solutions that meet strategic objectives. 
 • Operational expertise: My ability to optimize operational efficiency is 
 unparalleled, enabling organizations to achieve their goals with greater 
 velocity and effectiveness. 
