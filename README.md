@@ -59,7 +59,7 @@ Hadoop, Excel)
  
 Networking and security: 
 o Familiarity with networking fundamentals (e.g., TCP/IP, DNS) and 
-cloud-specific networking configurations 
+Cloud-specific networking configurations 
 o Understanding of security principles, threat modelling, and 
 compliance frameworks  
 DevOps tools: 
